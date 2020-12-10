@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Commit! If not in your relationship, at least do it in Git! 
 Use the left arrow to go back! 
